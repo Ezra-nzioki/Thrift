@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 export const Nav = () => {
+  const [open,setOpen]=useState(false)
   return (
  <>
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
