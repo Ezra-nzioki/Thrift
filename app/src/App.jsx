@@ -1,5 +1,4 @@
 
-import './App.css'
 import { Header } from './components/layout/header'
 import { Hero } from './components/sections/hero'
 
