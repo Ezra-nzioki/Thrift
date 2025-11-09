@@ -11,7 +11,7 @@ export const products = [
         name: "Retro Graphic Tee",
         description: "A colorful graphic t-shirt featuring a vintage design.",
         price: 20.00,
-        imageUrl: "https://plus.unsplash.com/premium_photo-1661693669430-5ebbe467769d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1198",
+        imageUrl: "https://i.pinimg.com/1200x/9f/29/7b/9f297b4555f172a6e29ace7d3166544f.jpg",
     },
     {
         id: 3,

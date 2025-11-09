@@ -3,7 +3,7 @@ import { Btn } from '../common/btn'
 import { products } from '../../products'
 
 export const Hero = () => {
-  const heroProduct = products[0].imageUrl; // using first product for hero
+  const heroProduct = products[1].imageUrl; // using first product for hero
   console.log(heroProduct)
   return (
     <>
